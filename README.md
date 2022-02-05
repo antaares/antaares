@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antaares&show_icons=true&theme=react ) <!-- copy from @anorprogrammer -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antaares&show_icons=true&theme=algolia) <!-- copy from @anorprogrammer -->
 
 <!--
 **antaares/antaares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
